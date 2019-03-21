@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="391ac28c-946d-4549-81e7-3d286f8bbb08" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../COMP3710/Assigment2/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../COMP3710/Assigment2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../COMP3710/Exam1/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../COMP3710/Exam1/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../COMP3710/Exam1/.idea/libraries/Gradle__android_arch_core_common_1_1_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../COMP3710/Exam1/.idea/libraries/Gradle__android_arch_core_runtime_1_1_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../COMP3710/Exam1/.idea/libraries/Gradle__android_arch_lifecycle_common_1_1_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../COMP3710/Exam1/.idea/libraries/Gradle__android_arch_lifecycle_livedata_1_1_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../COMP3710/Exam1/.idea/libraries/Gradle__android_arch_lifecycle_livedata_core_1_1_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../COMP3710/Exam1/.idea/libraries/Gradle__android_arch_lifecycle_runtime_1_1_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../COMP3710/Exam1/.idea/libraries/Gradle__android_arch_lifecycle_viewmodel_1_1_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../COMP3710/Exam1/.idea/libraries/Gradle__com_android_support_animated_vector_drawable_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../COMP3710/Exam1/.idea/libraries/Gradle__com_android_support_appcompat_v7_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../COMP3710/Exam1/.idea/libraries/Gradle__com_android_support_asynclayoutinflater_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../COMP3710/Exam1/.idea/libraries/Gradle__com_android_support_collections_28_0_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../COMP3710/Exam1/.idea/libraries/Gradle__com_android_support_constraint_constraint_layout_1_1_3_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../COMP3710/Exam1/.idea/libraries/Gradle__com_android_support_constraint_constraint_layout_solver_1_1_3_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../COMP3710/Exam1/.idea/libraries/Gradle__com_android_support_coordinatorlayout_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../COMP3710/Exam1/.idea/libraries/Gradle__com_android_support_cursoradapter_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../COMP3710/Exam1/.idea/libraries/Gradle__com_android_support_customview_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../COMP3710/Exam1/.idea/libraries/Gradle__com_android_support_documentfile_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../COMP3710/Exam1/.idea/libraries/Gradle__com_android_support_drawerlayout_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../COMP3710/Exam1/.idea/libraries/Gradle__com_android_support_interpolator_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../COMP3710/Exam1/.idea/libraries/Gradle__com_android_support_loader_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../COMP3710/Exam1/.idea/libraries/Gradle__com_android_support_localbroadcastmanager_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../COMP3710/Exam1/.idea/libraries/Gradle__com_android_support_print_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../COMP3710/Exam1/.idea/libraries/Gradle__com_android_support_slidingpanelayout_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../COMP3710/Exam1/.idea/libraries/Gradle__com_android_support_support_annotations_28_0_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../COMP3710/Exam1/.idea/libraries/Gradle__com_android_support_support_compat_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../COMP3710/Exam1/.idea/libraries/Gradle__com_android_support_support_core_ui_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../COMP3710/Exam1/.idea/libraries/Gradle__com_android_support_support_core_utils_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../COMP3710/Exam1/.idea/libraries/Gradle__com_android_support_support_fragment_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../COMP3710/Exam1/.idea/libraries/Gradle__com_android_support_support_vector_drawable_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../COMP3710/Exam1/.idea/libraries/Gradle__com_android_support_swiperefreshlayout_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../COMP3710/Exam1/.idea/libraries/Gradle__com_android_support_test_espresso_espresso_core_3_0_2_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../COMP3710/Exam1/.idea/libraries/Gradle__com_android_support_test_espresso_espresso_idling_resource_3_0_2_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../COMP3710/Exam1/.idea/libraries/Gradle__com_android_support_test_monitor_1_0_2_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../COMP3710/Exam1/.idea/libraries/Gradle__com_android_support_test_runner_1_0_2_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../COMP3710/Exam1/.idea/libraries/Gradle__com_android_support_versionedparcelable_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../COMP3710/Exam1/.idea/libraries/Gradle__com_android_support_viewpager_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../COMP3710/Exam1/.idea/libraries/Gradle__com_google_code_findbugs_jsr305_2_0_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../COMP3710/Exam1/.idea/libraries/Gradle__com_squareup_javawriter_2_1_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../COMP3710/Exam1/.idea/libraries/Gradle__javax_inject_javax_inject_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../COMP3710/Exam1/.idea/libraries/Gradle__junit_junit_4_12_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../COMP3710/Exam1/.idea/libraries/Gradle__net_sf_kxml_kxml2_2_3_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../COMP3710/Exam1/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../COMP3710/Exam1/.idea/libraries/Gradle__org_hamcrest_hamcrest_integration_1_3_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../COMP3710/Exam1/.idea/libraries/Gradle__org_hamcrest_hamcrest_library_1_3_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../COMP3710/Exam1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../COMP3710/Exam1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../COMP3710/Exam1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../COMP3710/Exam1/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PAST/2018FALL/3500/Lectures/02-OS Overview.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PAST/2018FALL/3500/Lectures/02-a-OS Overview.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PAST/2018FALL/3500/Lectures/02-note.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PAST/2018FALL/3500/Lectures/02b-OS Overview.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PAST/2018FALL/3500/Lectures/03-OS Design.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PAST/2018FALL/3500/Lectures/03-note.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PAST/2018FALL/3500/Lectures/04-note.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PAST/2018FALL/3500/Lectures/04a-OS Design cont.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PAST/2018FALL/3500/Lectures/04a-OS Design cont.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PAST/2018FALL/3500/Lectures/05-2.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PAST/2018FALL/3500/Lectures/05-3.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PAST/2018FALL/3500/Lectures/05-GDB Cheat Sheet.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PAST/2018FALL/3500/Lectures/05-comp2710-gdb.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PAST/2018FALL/3500/Lectures/05-note.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PAST/2018FALL/3500/Lectures/07b-Process Control.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PAST/2018FALL/3500/Lectures/07b-Process Control.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PAST/2018FALL/3500/Lectures/08a-Process Control cont.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PAST/2018FALL/3500/Lectures/09b-Synchronization+1+Critical+Section.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PAST/2018FALL/3500/Lectures/10-Synchronization 2 Mutual Exclusion.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PAST/2018FALL/3500/Lectures/10a-Synchronization 1 Critical Section Cont.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PAST/2018FALL/3500/Lectures/10b-Synchronization 2 Mutual Exclusion.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PAST/2018FALL/3500/Lectures/11-Synchronization 3-Semaphore.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PAST/2018FALL/3500/Lectures/12-Synchronization 4-Sync Problems.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PAST/2018FALL/3500/Lectures/13-Synchronization 5 Sync Problems.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PAST/2018FALL/3500/Lectures/14-Project 3-1 Overview.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PAST/2018FALL/3500/Lectures/14-Project 3-2 Locks and Condition Variables.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PAST/2018FALL/3500/Lectures/15-Synchronization 6 Classical Problems.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PAST/2018FALL/3500/Lectures/16-Project 3-3 Thread Sleep and Wakeup.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PAST/2018FALL/3500/Lectures/17-Project 3-4 Testing Lock and CV Implementation.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PAST/2018FALL/3500/Lectures/17-Synchronization 6 Exercises.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PAST/2018FALL/3500/Lectures/18-Project 3-5 Cats and Mice CV.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PAST/2018FALL/3500/Lectures/19-Project 4-1 Cats and Mice Design.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PAST/2018FALL/3500/Lectures/20-Project 4-2 Cats and Mice Implementation Lock.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PAST/2018FALL/3500/Lectures/21-Project 4-3 Cats and Mice CV.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PAST/2018FALL/3500/Lectures/22-Deadlocks Introduction.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PAST/2018FALL/3500/Lectures/22a-Project 4-4 Cats and Mice CV cont.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PAST/2018FALL/3500/Lectures/22b-Deadlocks Introduction.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PAST/2018FALL/3500/Lectures/23-Handling Deadlocks.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PAST/2018FALL/3500/Lectures/24-The Banker Algorithm Part 1.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PAST/2018FALL/3500/Lectures/25-The Banker Algorithm Part 2 (1).pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PAST/2018FALL/3500/Lectures/26-Deadlock Detection (1).pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PAST/2018FALL/3500/Lectures/27a-Project 5-1 Overview.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PAST/2018FALL/3500/Lectures/27b-Project 5-2 System Calls.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PAST/2018FALL/3500/Lectures/28-Project 5-3 Adding System Calls.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PAST/2018FALL/3500/Lectures/29-Project 5-4 Managing Process State.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PAST/2018FALL/3500/Lectures/30-Project 5-4 Managing Process State Cont.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PAST/2018FALL/3500/Lectures/31-Project 5-5 The fork and exec System Calls.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PAST/2018FALL/3500/Lectures/32-CPU Scheduling.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PAST/2018FALL/3500/Lectures/33a-Memory Management Part 1.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PAST/2018FALL/3500/Lectures/33b-Memory Management Part 2.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PAST/2018FALL/3500/Lectures/37-Paging Basic Method.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PAST/2018FALL/3500/Lectures/38-Paging TLB.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PAST/2018FALL/3500/Lectures/39 Project 6-1 Overview (1).pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PAST/2018FALL/3500/Lectures/40-Project 6 Data Flow Diagram Draft (new).pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PAST/2018FALL/3500/Lectures/41 Project 6-3 Data Structures and Functions.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PAST/2018FALL/3500/Lectures/42 Project 6-4 Implementing LRU in TLB.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PAST/2018FALL/3500/Lectures/46-Final Review.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PAST/2018FALL/3500/Lectures/CPU Scheduling.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PAST/2018FALL/3500/Lectures/Note-7-1.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PAST/2018FALL/3500/Operating_Systems" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PAST/2018FALL/3500/PJ-0/Programming Environment Setup.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PAST/2018FALL/3500/PJ-0/Unix.ppt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PAST/2018FALL/3500/PJ-0/Writing-Clean-Code.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PAST/2018FALL/3500/PJ-0/vi editor.ppt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PAST/2018FALL/3500/PJ-1/Project 1 Specification.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PAST/2018FALL/3500/PJ-1/Report – Project 1.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PAST/2018FALL/3500/PJ-1/home/u2/yzw0060/comp3500/project1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PAST/2018FALL/3500/PJ-1/project1.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PAST/2018FALL/3500/PJ-1/project1.tgz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PAST/2018FALL/3500/PJ-2/08a-Project+2+How+to+modify+OS161-Manual.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PAST/2018FALL/3500/PJ-2/08a-Project+2+How+to+modify+OS161-Manual.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PAST/2018FALL/3500/PJ-2/DEBUG+macro-Manual.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PAST/2018FALL/3500/PJ-2/Project 2 FAQ.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PAST/2018FALL/3500/PJ-2/Project 2 Specification.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PAST/2018FALL/3500/PJ-2/asst0.tgz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PAST/2018FALL/3500/PJ-2/code-reading.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PAST/2018FALL/3500/PJ-2/pj2.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PAST/2018FALL/3500/PJ-3/project3.tgz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PAST/2018FALL/3500/PJ-4/project4.tgz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PAST/2018FALL/3500/PJ-6/BACKING_STORE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PAST/2018FALL/3500/PJ-6/InputFile.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PAST/2018FALL/3500/PJ-6/OutputFile.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PAST/2018FALL/3500/PJ-6/a.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PAST/2018FALL/3500/PJ-6/aa" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PAST/2018FALL/3500/PJ-6/aa.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PAST/2018FALL/3500/PJ-6/aa.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PAST/2018FALL/3500/PJ-6/aa.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PAST/2018FALL/3500/PJ-6/add.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PAST/2018FALL/3500/PJ-6/add.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PAST/2018FALL/3500/PJ-6/address" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PAST/2018FALL/3500/PJ-6/address.dSYM/Contents/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PAST/2018FALL/3500/PJ-6/address.dSYM/Contents/Resources/DWARF/address" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PAST/2018FALL/3500/PJ-6/makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PAST/2018FALL/3500/PJ-6/reader.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PAST/2018FALL/3500/PJ-6/report.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PAST/2018FALL/3500/PJ-6/testinput.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PAST/2018FALL/3500/PJ-6/vmm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PAST/2018FALL/3500/PJ-6/vmm.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PAST/2018FALL/3500/PJ-6/vmm.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PAST/2018FALL/3500/PJ-6/vmm.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PAST/2018FALL/3500/PJ-6/vms.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PAST/2018FALL/3500/PJ-6/vms.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PAST/2018FALL/3500/Screen Shot 2018-10-10 at 4.12.52 PM.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PAST/2018FALL/3500/codeR.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PAST/2018FALL/3500/comp3350-m9-Memory.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PAST/2018FALL/3500/final.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PAST/2018FALL/3500/hw1.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PAST/2018FALL/3500/hw2.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PAST/2018FALL/3500/project6.tgz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PAST/2018FALL/3500/project6/BACKING_STORE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PAST/2018FALL/3500/project6/InputFile.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PAST/2018FALL/3500/project6/OutputFile.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PAST/2018FALL/3500/project6/makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PAST/2018FALL/3500/project6/report.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PAST/2018FALL/3500/project6/testinput.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PAST/2018FALL/3500/project6/vmm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PAST/2018FALL/3500/project6/vmm.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PAST/2018FALL/3500/project6/vmm.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PAST/2018FALL/3500/project6/vmm.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PAST/2018FALL/3500/project6/vms.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PAST/2018FALL/3500/project6/vms.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PAST/2018FALL/3500/syllabus.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/GPS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/com/company/Ai.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/com/company/Board.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project2_WangDargo/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project2_WangDargo/funfair_scheme.rkt" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="14" selection-start-column="14" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Vehicle.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/company/GPS.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="25" column="17" selection-start-line="25" selection-start-column="17" selection-end-line="25" selection-end-column="17" />
+              <folding>
+                <element signature="e#206#207#0" expanded="true" />
+                <element signature="e#232#233#0" expanded="true" />
+                <element signature="e#270#271#0" expanded="true" />
+                <element signature="e#289#290#0" expanded="true" />
+                <element signature="e#326#327#0" expanded="true" />
+                <element signature="e#350#351#0" expanded="true" />
+                <element signature="e#384#385#0" expanded="true" />
+                <element signature="e#405#406#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/company/Vehicle.java" />
+        <option value="$PROJECT_DIR$/src/com/company/GPS.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="413" />
+    <option name="y" value="23" />
+    <option name="width" value="843" />
+    <option name="height" value="695" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Vanet" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Vanet" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Vanet" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Vanet" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Vanet" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Vanet" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="company" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553139126401" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="Vanet" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="391ac28c-946d-4549-81e7-3d286f8bbb08" name="Default Changelist" comment="" />
+      <created>1553138322254</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1553138322254</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="413" y="23" width="843" height="695" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24911033" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="14" selection-start-column="14" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Vehicle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/GPS.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="17" selection-start-line="25" selection-start-column="17" selection-end-line="25" selection-end-column="17" />
+          <folding>
+            <element signature="e#206#207#0" expanded="true" />
+            <element signature="e#232#233#0" expanded="true" />
+            <element signature="e#270#271#0" expanded="true" />
+            <element signature="e#289#290#0" expanded="true" />
+            <element signature="e#326#327#0" expanded="true" />
+            <element signature="e#350#351#0" expanded="true" />
+            <element signature="e#384#385#0" expanded="true" />
+            <element signature="e#405#406#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

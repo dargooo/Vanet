@@ -177,11 +177,13 @@
       <change afterPath="$PROJECT_DIR$/../PAST/2018FALL/3500/project6/vms.c" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../PAST/2018FALL/3500/project6/vms.o" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../PAST/2018FALL/3500/syllabus.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/TCMessage.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../untitled/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../untitled/src/com/company/Ai.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../untitled/src/com/company/Board.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Project2_WangDargo/README.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Project2_WangDargo/funfair_scheme.rkt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/company/Packet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Packet.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -235,8 +237,51 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/company/Packet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="31" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
+            <state relative-caret-position="439">
+              <caret line="62" selection-start-line="62" selection-end-line="62" />
+              <folding>
+                <element signature="e#332#333#0" expanded="true" />
+                <element signature="e#368#369#0" expanded="true" />
+                <element signature="e#557#558#0" expanded="true" />
+                <element signature="e#593#594#0" expanded="true" />
+                <element signature="e#644#645#0" expanded="true" />
+                <element signature="e#689#690#0" expanded="true" />
+                <element signature="e#742#743#0" expanded="true" />
+                <element signature="e#775#776#0" expanded="true" />
+                <element signature="e#819#820#0" expanded="true" />
+                <element signature="e#838#839#0" expanded="true" />
+                <element signature="e#899#900#0" expanded="true" />
+                <element signature="e#927#928#0" expanded="true" />
+                <element signature="e#975#976#0" expanded="true" />
+                <element signature="e#1008#1009#0" expanded="true" />
+                <element signature="e#1051#1052#0" expanded="true" />
+                <element signature="e#1078#1079#0" expanded="true" />
+                <element signature="e#1115#1116#0" expanded="true" />
+                <element signature="e#1136#1137#0" expanded="true" />
+                <element signature="e#1178#1179#0" expanded="true" />
+                <element signature="e#1201#1202#0" expanded="true" />
+                <element signature="e#1185#1186#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/TCMessage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="22" column="32" selection-start-line="22" selection-start-column="32" selection-end-line="22" selection-end-column="32" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#313#314#0" expanded="true" />
+                <element signature="e#384#385#0" expanded="true" />
+                <element signature="e#461#462#0" expanded="true" />
+                <element signature="e#516#517#0" expanded="true" />
+                <element signature="e#597#598#0" expanded="true" />
+                <element signature="e#652#653#0" expanded="true" />
+                <element signature="e#724#725#0" expanded="true" />
+                <element signature="e#745#746#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -309,14 +354,15 @@
         <option value="$PROJECT_DIR$/src/com/company/Vehicle.java" />
         <option value="$PROJECT_DIR$/src/com/company/VehicleInfo.java" />
         <option value="$PROJECT_DIR$/src/com/company/HelloMessage.java" />
+        <option value="$PROJECT_DIR$/src/com/company/TCMessage.java" />
         <option value="$PROJECT_DIR$/src/com/company/Packet.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="493" />
+    <option name="x" value="557" />
     <option name="y" value="23" />
-    <option name="width" value="779" />
+    <option name="width" value="715" />
     <option name="height" value="695" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -354,7 +400,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553228419067" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553230002397" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -394,10 +440,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="493" y="23" width="779" height="695" extended-state="0" />
+    <frame x="557" y="23" width="715" height="695" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.24834874" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.24775353" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -500,10 +546,51 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/TCMessage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="32" selection-start-line="22" selection-start-column="32" selection-end-line="22" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#313#314#0" expanded="true" />
+            <element signature="e#384#385#0" expanded="true" />
+            <element signature="e#461#462#0" expanded="true" />
+            <element signature="e#516#517#0" expanded="true" />
+            <element signature="e#597#598#0" expanded="true" />
+            <element signature="e#652#653#0" expanded="true" />
+            <element signature="e#724#725#0" expanded="true" />
+            <element signature="e#745#746#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Packet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="31" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
+        <state relative-caret-position="439">
+          <caret line="62" selection-start-line="62" selection-end-line="62" />
+          <folding>
+            <element signature="e#332#333#0" expanded="true" />
+            <element signature="e#368#369#0" expanded="true" />
+            <element signature="e#557#558#0" expanded="true" />
+            <element signature="e#593#594#0" expanded="true" />
+            <element signature="e#644#645#0" expanded="true" />
+            <element signature="e#689#690#0" expanded="true" />
+            <element signature="e#742#743#0" expanded="true" />
+            <element signature="e#775#776#0" expanded="true" />
+            <element signature="e#819#820#0" expanded="true" />
+            <element signature="e#838#839#0" expanded="true" />
+            <element signature="e#899#900#0" expanded="true" />
+            <element signature="e#927#928#0" expanded="true" />
+            <element signature="e#975#976#0" expanded="true" />
+            <element signature="e#1008#1009#0" expanded="true" />
+            <element signature="e#1051#1052#0" expanded="true" />
+            <element signature="e#1078#1079#0" expanded="true" />
+            <element signature="e#1115#1116#0" expanded="true" />
+            <element signature="e#1136#1137#0" expanded="true" />
+            <element signature="e#1178#1179#0" expanded="true" />
+            <element signature="e#1201#1202#0" expanded="true" />
+            <element signature="e#1185#1186#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

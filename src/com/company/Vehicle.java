@@ -8,7 +8,7 @@ import java.util.concurrent.ConcurrentSkipListMap;
 public abstract class Vehicle {
 
     public static final String FILE_NAME = "config.txt";
-    public static final int SERVER_PORT = 20120;
+    public static final int SERVER_PORT = 10120;
 
     protected boolean SET_BROADCAST;
 

@@ -12,6 +12,9 @@ public class Packet implements Serializable {
 
     public Packet(Header header) {
         this.header = header;
+        vehicleInfo = null;
+        hello = null;
+        tc = null;
     }
 
     public Packet(Header header, VehicleInfo vehicleInfo) {

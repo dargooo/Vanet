@@ -2,32 +2,32 @@ package com.company;
 
 public class GPS {
 
-    private double x;
-    private double y;
+   private double x;
+   private double y;
 
-    public GPS() {
+   public GPS() {
+   
+   }
 
-    }
+   public GPS(double x, double y) {
+      this.x = x;
+      this.y = y;
+   }
 
-    public GPS(double x, double y) {
-        this.x = x;
-        this.y = y;
-    }
+   public void setX(double x) {
+      this.x = x;
+   }
 
-    public void setX(double x) {
-        this.x = x;
-    }
+   public void setY(double y) {
+      this.y = y;
+   }
 
-    public void setY(double y) {
-        this.y = y;
-    }
+   public double getX() {
+      return x;
+   }
 
-    public double getX() {
-        return x;
-    }
-
-    public double getY() {
-        return y;
-    }
+   public double getY() {
+      return y;
+   }
 
 }
